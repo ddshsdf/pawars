@@ -1,0 +1,112 @@
+
+
+-----------
+
+Problem statement: 
+
+Lab Environment
+
+To carry out this lab, you will require the following :
+
+Kali Linux as virtual machine
+Web browser with Internet connection
+Administartive privileges
+
+Lab Tasks
+
+1. Log in to Kali Linux as a Virtual Machine.
+2. Go to Applications > Exploitation Tools > SET Social Engineering Tool, as shown in figure
+
+FIGURE----
+
+Then you will get the Set menu, as shown in figure.
+
+FIGURE----
+
+Now the list of social engineering methods will appear, as shown in figure.
+
+FIGURE---
+
+3. Type '1' to choose the Social Engineering Attacks, as shown in figure
+
+FIGURE----
+
+Then the list of menus in the social engineering attacks will appear, as shown in figure
+
+FIGURE---
+
+4. Type '2' to choose the Website attack vectors, as shown in figure
+
+FIGURE---
+
+5. In the next screen that appears, type '3' to choose the credential harvester attack nethos. as shown in figure.
+
+FIGURE----
+
+Then the following screen will appear, as shown in figure.
+
+FIGURE---
+
+6. Type '2' to choose Site Cloner, as shown in figure
+
+FIGURE---
+
+Then the following screen will appear, as shwon in figure
+Now it will prompt for IP address for the PostBack in Harvester/Tabnabbing, as shown in figure
+
+FIGURE----
+
+7. Type the IP address of kali Linux of VM. here, we have used 192.xx.xx.xx as the IP address, as shown in figure
+ 
+FIGURE----
+
+Then it will prompt to enter the URL of the website which is required to be cloned.
+
+8. Type www.facebook.com, as shown in figure
+
+FIGURE----
+
+9. Type www.facebook.com, as shown in figure
+
+FIGURE---
+
+Then the following screen will appear, as shown in figure
+
+FIGURE----
+
+10. Launch a web browser in Kali Linux and open an email services, as shown in figure
+
+11. Compose an email and provide he target users email id in the To textbox, as shown in figure
+
+FIGURE---
+
+12. Click on the link icon
+
+Then following windown will appear, as shown in figure
+
+13. Type a text in the Text to display textbox.
+
+14. Click on the radio button Web address.
+
+15. Type the fake URL https://facebook.com/ in the Web address text box
+
+16. Click on OK
+
+FIGURE----
+
+Now the text that you have types will appear in the email body as a link, as shown in figure
+
+17. Click o send
+
+FIGURE----
+
+Now when the target user will open his email, he will find the link, as shwown in the figure
+
+FIGURE----
+
+When the target user will click on the link, he/she will be presented with a replica of Facebook.com, as shown in figure
+
+FIGURE----
+
+The face Facebook.com page will ask the target user to enter the email and password for view the picture.
+When the target user enters the credentials, the SET terminal of Kali Linux will fetch the email id and password.
