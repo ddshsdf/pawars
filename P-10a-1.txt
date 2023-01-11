@@ -1,0 +1,101 @@
+
+
+
+------------
+
+problem statement:Sniff Wi-Fi hot spots and analyse wireless network strength using
+InSSIDer
+
+Lab Objectives:
+ 1. Install and configure InSSIDer
+ 2. Check the wireless signal strength
+
+Lab Environment:
+ 1. Windows OS
+ 2. Web browser with Internet connection
+ 3. Administrative preveleges
+
+Lab Tasks:
+
+1. Type http://inssider.en.softonic.com/download in the address bar of a web browser, and press enter, as shown in figure
+
+2. in the webpage that opens, click on the link, download InSSIDer for windows, as shown in figure
+
+FIGURE----
+
+3. Click on free download, as shown in figure
+
+FIGURE--
+
+4. Click on the downloaded files,as shown in figure
+
+FIGURE---
+
+5. In the next screen that appears, click on next, as shown in figure
+
+FIGURE---
+
+6. in the next screen, click on the everyone radio button, and then click next,as shown in figure
+
+FIGURE---
+
+FIGURE---
+
+
+7. in the next screen that appears, click on next, as shown in figure
+
+FIGURE----
+
+8. Then the following screen will appear, as shown in figure
+
+FIGURE----
+
+9. Then after the files gets installed,the following screen will appear, as showm in figure 8 click ok
+
+FIGURE---
+
+Then InSSDer icon will appear on the desktop, as shwon in figure
+
+FIGURE---
+
+10. Double click on the InSSDer icon on the desktop,
+Then the following screen will appear, as shown in figure 10
+
+FIGURE----
+
+11. Click on the Time Graph tab, as shiwn in figure
+
+FIGURE---
+
+it will show the time graph of all the availabel SSID, we need to elect the particularSSID
+what we need to know
+
+
+12. Click on the particular SSID as shown in figure 12, In this lab we have selected WSTREAM AP0 SSID
+
+FIGURE----
+
+Now you have to select another SSID for comparison
+
+13. Scroll down the SSID and select WStream AP -1, as shon in figure
+
+FIGURE----
+
+14. Then the following screen will appear, as shown in figure
+
+15. Click on the 2.4 GHz channels tab, as shiwn in figure
+
+FIGURE-----
+
+
+16. it will show 2.4Ghz channels for two SSID, WStreamAP1 and WStreamAP0 
+
+17. Click on 5Ghz channel, as shown in figure
+
+Then the following screen will appear as shown in figure
+
+FIGURE--------
+
+Thus, you can see the signal strenght for both the SSIDs.
+In this way, we can analyse wireless network strenght wit the help of SSIDer tool
+ 
